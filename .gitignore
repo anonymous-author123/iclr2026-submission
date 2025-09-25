@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-nips2025-data/
+
 images/
 label.json
 
